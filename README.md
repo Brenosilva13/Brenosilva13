@@ -7,7 +7,7 @@
 <h1 align="center">👨‍💻 Aprendiz de Software | Amante de Front-end & Design</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Estudante+no+Colégio+Germinare;Estagiário+na+PiquePay;Fan+da+Olivia+Rodrigo;Vegetariano+e+fazedor+de+nhoque+🍠" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Estudante+no+Instituto+J&F;Estagiário+na+PicPay" />
 </p>
 
 ---
