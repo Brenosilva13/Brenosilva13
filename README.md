@@ -1,10 +1,6 @@
-<!-- Banner animado -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=200&section=header&text=Olá,%20eu%20sou%20o%20Breno!&fontSize=35&fontColor=ffffff" />
-</p>
 
 <!-- Saudações -->
-<h1 align="center">👨‍💻 Aprendiz de Software | Amante de Front-end & Design</h1>
+<h1 align="center">👨‍💻 Dev </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Estudante+no+Instituto+J&F;Estagiário+na+PicPay" />
@@ -31,16 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
 </div>
-
----
-
-## 🧠 Estou aprendendo
-
-- ☁️ Backstage do Spotify
-- 🛠️ Microserviços e integração de APIs
-- 🧠 Lógica de IA com Google Gemini
-- 🔐 Autenticação segura com bcrypt
-- 💜 Como deixar tudo mais bonito com CSS puro
 
 ---
 
